@@ -1,0 +1,2 @@
+ gems: [jekyll-redirect-from]
+ # This will require each of these gems automatically.
